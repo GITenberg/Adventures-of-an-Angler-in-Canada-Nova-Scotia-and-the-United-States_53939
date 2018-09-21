@@ -1,0 +1,31 @@
+_repo: Adventures-of-an-Angler-in-Canada-Nova-Scotia-and-the-United-States_53939
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lanman, Charles
+    birthdate: 1819
+    deathdate: 1895
+    gutenberg_agent_id: '44753'
+    url: http://www.gutenberg.org/2009/agents/44753
+description: ''
+gutenberg_issued: '2017-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'New England -- Description and travel'
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'New York (State) -- Description and travel'
+- !lcsh 'Maine -- Description and travel'
+- !lcsh 'Québec (Province) -- Description and travel'
+- !lcsh 'Saguenay River Valley (Québec)'
+- !lcsh 'Adirondack Mountains (N.Y.)'
+- !lcsh 'Fishing -- North America'
+- GITenberg
+title: Adventures of an Angler in Canada, Nova Scotia and the United States
+url: http://www.gutenberg.org/ebooks/53939
